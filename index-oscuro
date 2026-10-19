@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pg_Temporal</title>
+</head>
+
+<body>
+    
+    <style>
+    .modo-oscuro {
+      position: absolute;
+      top: 7px;
+      right: 7px;
+      font-size: 16px;
+      color: #333;
+    }
+  </style>
+      <div class="modo-oscuro">      
+      <mark><a href="google.com">Modo Oscuro</a></mark> 
+      </div>
+      <br />
+  
+    <h1>Paquete entregado a María, porros quizás mañana</h1>
+    <h2>perdonen las molestias de DHL</h2>
+    <br />
+    <p> próximamente más contenido en esta página super chula</p>
+   <a></a> <img src="https://imgs.search.brave.com/espvMfHTa0q-v1TRRbFgxA1Ypugr1UjbGVl9dUyY_XY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8w/NC8wNC8wMi8yMC9j/YXQtMjIwMDAzOV82/NDAuanBn" width="150px">
+   
+   <ul>
+  <li><a href="google.com" style="font-size: 34px">Paquetito de Ropa</a><mark> ---Temporal</mark> </li>
+  <li><a href="google.com">Quedadas KuFA</a></li>
+  <li><a href="google.com">¿Qué hago en esta página tan tan tan chula?</a></li>
+  <li><a href="google.com">Galería y contenidos multimedia</a></li>
+</ul>
+   
+</body>
+</html>
